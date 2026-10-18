@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan 5 Pilar Islam",
+  "description": "Aplikasi game petualangan edukatif interaktif PAI Kelas 1 SD untuk mengenal dan mengamalkan 5 Rukun Islam bersama Raka dan Rara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
